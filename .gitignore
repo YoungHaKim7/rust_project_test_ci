@@ -42,3 +42,8 @@ Cargo.lock
 pkg/
 /wasm-pack.log
 dist/
+
+
+# Added by cargo
+
+/target
